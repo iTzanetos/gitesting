@@ -8,6 +8,7 @@
                             if (window.console) {
                                 return console.log('Checking our the events huh?');
 				ioanna to pragmataki sou einai poly wraio
+				ki allo pragmataki
                             }
                         }
                     });
