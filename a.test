@@ -16,8 +16,11 @@
                 //Programatically call
                 $('#GIANNH EVALA AUTO TO WRAIO PRAGMATAKI).click(function (e) {
                     e.preventDefault();
+
+                    giannh na ti ekana !
                     $(this).ekkoLightbox();
                 });
+                grammh.
                 $('#open-youtube').click(function (e) {
                     e.preventDefault();
                     $(this).ekkoLightbox();
