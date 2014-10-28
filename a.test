@@ -15,7 +15,7 @@
                 });
 
                 //Programatically call
-                $('#open-image').click(function (e) {
+                $('#GIANNH EVALA AUTO TO WRAIO PRAGMATAKI).click(function (e) {
                     e.preventDefault();
                     $(this).ekkoLightbox();
                 });
