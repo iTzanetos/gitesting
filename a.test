@@ -17,10 +17,13 @@
                 //Programatically call
                 $('#GIANNH EVALA AUTO TO WRAIO PRAGMATAKI).click(function (e) {
                     e.preventDefault();
+		    
+		    ioanna egw ekana auto!
                     $(this).ekkoLightbox();
                 });
                 $('#open-youtube').click(function (e) {
                     e.preventDefault();
                     $(this).ekkoLightbox();
                 });
+		grammh2!!
             });
